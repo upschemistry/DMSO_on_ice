@@ -1,0 +1,11 @@
+#include "amber_na_desres.ff/forcefield.itp"
+#include "dmso_atomtypes.itp"
+#include "amber_na_desres.ff/tip4pd.itp"
+#include "dmso.itp"
+
+[ system ]
+Gromacs Runs On Most of All Computer Systems in water
+
+[ molecules ]
+DMSO                9
+SOL              2880

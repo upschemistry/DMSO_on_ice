@@ -6,4 +6,10 @@ __pycache__
 *.edr
 *.log
 *.xvg
-
+*.trr.*
+*.xtc.*
+*.edr.*
+*.log.*
+*.xvg.*
+*#
+*.cpt

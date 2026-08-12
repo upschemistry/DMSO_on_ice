@@ -1,0 +1,5 @@
+[ atomtypes ]
+; name   mass      charge   ptype      sigma             eps
+SD   32.06000   0.000   A   0.3660   1.399
+OD   15.99940   0.000   A   0.2920   0.591
+CD   15.03500   0.000   A   0.3590   0.958
